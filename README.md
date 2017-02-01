@@ -51,37 +51,25 @@ gsettings set org.gnome.shell disable-extension-version-validation "true"
 
 ### Navigation
 
- - [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) - Always access application dock on the left side of the screen.
-
- - [Workspaces to Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) - Always access workspace dock on the right side of the screen.
-
- - [windowNavigator](https://extensions.gnome.org/extension/10/windownavigator/) - Use <kbd>Alt</kbd>+Num to switch to windows in Overview.
-
- - [Quick Close in Overview](https://extensions.gnome.org/extension/352/middle-click-to-close-in-overview/) - Close windows with a mouse middle click when in Overview.
-
- - [Top Panel Workspace Scroll](https://extensions.gnome.org/extension/701/top-panel-workspace-scroll/) - Change workspaces by mouse scrolling over the top panel.
+* [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) - Always access application dock on the left side of the screen.
+* [Workspaces to Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) - Always access workspace dock on the right side of the screen.
+* [windowNavigator](https://extensions.gnome.org/extension/10/windownavigator/) - Use <kbd>Alt</kbd>+Num to switch to windows in Overview.
+* [Quick Close in Overview](https://extensions.gnome.org/extension/352/middle-click-to-close-in-overview/) - Close windows with a mouse middle click when in Overview.
+* [Top Panel Workspace Scroll](https://extensions.gnome.org/extension/701/top-panel-workspace-scroll/) - Change workspaces by mouse scrolling over the top panel.
+* [Pixel Saver](https://extensions.gnome.org/extension/723/pixel-saver/) - Hide GTK2 title bar to save pixels when maximized.
 
 ### Top panel utilities
 
- - [Activities configurator](https://extensions.gnome.org/extension/358/activities-configurator/) - Replace the text "Activities" on the top left corner with custom text/icon and make top panel tranparent.
-
- - [TopIcons](https://extensions.gnome.org/extension/495/topicons/) - Shows legacy tray icons on top, like Dropbox.
-
- - [Media player indicator](https://extensions.gnome.org/extension/55/media-player-indicator/) - Show music control with current artist name, music name.
-
- - [EasyScreenCast](https://extensions.gnome.org/extension/690/easyscreencast/) - Utilize built-in screen recording function into a easy-to-use panel icon.
-
- - [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - Create simple todo list stored as `todo.txt`.
-
- - [Input Method Panel](https://extensions.gnome.org/extension/261/kimpanel/) - For fcitx (Chinese input method).
-
- - [Battery Percentage](https://extensions.gnome.org/extension/818/battery-percentage/) - Show battery remaining power percentage.
-
- - [Suspend Button](https://extensions.gnome.org/extension/826/suspend-button/) - Add suspend button in the status menu. Otherwise you hold <kbd>Alt</kbd> key to show it.
-
- - [Turn off Display](https://extensions.gnome.org/extension/897/turn-off-display/) - Adds a button to the status menu to turn off the screen.
-
- - [Sound Output Device Chooser](https://extensions.gnome.org/extension/906/sound-output-device-chooser/) - Shows a list of sound output devices to select from.
+* [Activities configurator](https://extensions.gnome.org/extension/358/activities-configurator/) - Replace the text "Activities" on the top left corner with custom text/icon and make top panel tranparent.
+* [TopIcons](https://extensions.gnome.org/extension/495/topicons/) - Shows legacy tray icons on top, like Dropbox.
+* [Media player indicator](https://extensions.gnome.org/extension/55/media-player-indicator/) - Show music control with current artist name, music name.
+* [EasyScreenCast](https://extensions.gnome.org/extension/690/easyscreencast/) - Utilize built-in screen recording function into a easy-to-use panel icon.
+* [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - Create simple todo list stored as `todo.txt`.
+* [Input Method Panel](https://extensions.gnome.org/extension/261/kimpanel/) - For fcitx (Chinese input method).
+* [Battery Percentage](https://extensions.gnome.org/extension/818/battery-percentage/) - Show battery remaining power percentage.
+* [Suspend Button](https://extensions.gnome.org/extension/826/suspend-button/) - Add suspend button in the status menu. Otherwise you hold <kbd>Alt</kbd> key to show it.
+* [Turn off Display](https://extensions.gnome.org/extension/897/turn-off-display/) - Adds a button to the status menu to turn off the screen.
+* [Sound Output Device Chooser](https://extensions.gnome.org/extension/906/sound-output-device-chooser/) - Shows a list of sound output devices to select from.
 
 ## Applications
 
