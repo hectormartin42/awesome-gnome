@@ -77,32 +77,32 @@ Below are GTK+ 3 apps (new header bar and dark theme available).
 
 ### System
 
-* **[Terminix](https://gnunn1.github.io/terminix-web/)** - Tiling terminal with tranparent background.
-* **[System Monitor](https://wiki.gnome.org/Apps/SystemMonitor)** - Watch CPU, memory, network usages, process and disks usage.
-* **[Disk Usage Analyzer (baobab)](https://wiki.gnome.org/Apps/Baobab)** - Examine disk usage with pie charts.
-* **[Font Manager](https://fontmanager.github.io/)** - Manage fonts.
-* **[gitg](https://wiki.gnome.org/Apps/Gitg)** - Git graphical client.
-* **[Meld](http://meldmerge.org/)** - Compare directories and files.
-* **[Backups (Déjà Dup)](https://wiki.gnome.org/Apps/DejaDup)** - An easy way to backup the disk using **duplicity**. It only records differences of files. It integrates well with Nautilus.
+* [Terminix](https://gnunn1.github.io/terminix-web/) - Tiling terminal with tranparent background.
+* [System Monitor](https://wiki.gnome.org/Apps/SystemMonitor) - Watch CPU, memory, network usages, process and disks usage.
+* [Disk Usage Analyzer (baobab)](https://wiki.gnome.org/Apps/Baobab) - Examine disk usage with pie charts.
+* [Font Manager](https://fontmanager.github.io/) - Manage fonts.
+* [gitg](https://wiki.gnome.org/Apps/Gitg) - Git graphical client.
+* [Meld](http://meldmerge.org/) - Compare directories and files.
+* [Backups (Déjà Dup)](https://wiki.gnome.org/Apps/DejaDup) - An easy way to backup the disk using **duplicity**. It only records differences of files. It integrates well with Nautilus.
 
 ### Interface
 
-* **[Easystroke](https://github.com/thjaeger/easystroke/wiki)** - Define your mouse gestures to trigger keyboard shortcuts.
-* **[GNOME Pie](https://simmesimme.github.io/gnome-pie.html)** - Shows pie menus of different kinds like alt-tab application menu, bookmarked places menu (needs [fix](https://gist.github.com/tanyuan/01dfc1f283a4de578968865db6b239f0)), media menu and more. It plays well with **Easystroke**.
+* [Easystroke](https://github.com/thjaeger/easystroke/wiki) - Define your mouse gestures to trigger keyboard shortcuts.
+* [GNOME Pie](https://simmesimme.github.io/gnome-pie.html) - Shows pie menus of different kinds like alt-tab application menu, bookmarked places menu (needs [fix](https://gist.github.com/tanyuan/01dfc1f283a4de578968865db6b239f0)), media menu and more. It plays well with **Easystroke**.
 
 ### Notes, photos, music ...
 
-* **[Gnote](https://wiki.gnome.org/Apps/Gnote)** - Take text notes. A port of Tomboy to C++.
-* **[gThumb](https://wiki.gnome.org/Apps/gthumb)** - View photos in native folder structures.
-* **[Lollypop](https://gnumdk.github.io/lollypop-web/)** - iTune-like music player.
-* **[Pitivi](http://www.pitivi.org/)** - Simple video editor.
-* **[MyPaint](http://mypaint.org/)** - Pleasant drawing app with Wacom stylus.
+* [Gnote](https://wiki.gnome.org/Apps/Gnote) - Take text notes. A port of Tomboy to C++.
+* [gThumb](https://wiki.gnome.org/Apps/gthumb) - View photos in native folder structures.
+* [Lollypop](https://gnumdk.github.io/lollypop-web/) - iTune-like music player.
+* [Pitivi](http://www.pitivi.org/) - Simple video editor.
+* [MyPaint](http://mypaint.org/) - Pleasant drawing app with Wacom stylus.
 
 ### Utilities
 
-* **[GPaste](https://github.com/Keruspe/GPaste)** - View and edit clipboard history with additional Gnome Shell Extension.
-* **[Gcolor3](https://hjdskes.github.io/projects/gcolor3/)** - A simple Color selector.
-* **[Peek](https://github.com/phw/peek)** - GIF screen recorder.
+* [GPaste](https://github.com/Keruspe/GPaste) - View and edit clipboard history with additional Gnome Shell Extension.
+* [Gcolor3](https://hjdskes.github.io/projects/gcolor3/) - A simple Color selector.
+* [Peek](https://github.com/phw/peek) - GIF screen recorder.
 
 ## Files (Nautilus)
 
