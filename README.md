@@ -11,6 +11,7 @@
 * [Extensions](#extensions)
  * [Navigation](#navigation)
  * [Top panel utilities](#top-panel-utilities)
+ * [Custom](#custom)
 * [Applications](#applications)
  * [System](#system)
  * [Interface](#interface)
@@ -70,6 +71,10 @@ gsettings set org.gnome.shell disable-extension-version-validation "true"
 * [Suspend Button](https://extensions.gnome.org/extension/826/suspend-button/) - Add suspend button in the status menu. Otherwise you hold <kbd>Alt</kbd> key to show it.
 * [Turn off Display](https://extensions.gnome.org/extension/897/turn-off-display/) - Adds a button to the status menu to turn off the screen.
 * [Sound Output Device Chooser](https://extensions.gnome.org/extension/906/sound-output-device-chooser/) - Shows a list of sound output devices to select from.
+
+### Custom
+
+* [Argos](https://extensions.gnome.org/extension/1176/argos/) - Make custom top panel extension using Bash script.
 
 ## Applications
 
