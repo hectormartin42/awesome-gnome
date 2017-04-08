@@ -82,7 +82,7 @@ Below are GTK+ 3 apps (new header bar and dark theme available).
 
 ### System
 
-* [Terminix](https://gnunn1.github.io/terminix-web/) - Tiling terminal with tranparent background.
+* [Tilix](https://gnunn1.github.io/tilix-web/) - Tiling terminal with tranparent background.
 * [System Monitor](https://wiki.gnome.org/Apps/SystemMonitor) - Watch CPU, memory, network usages, process and disks usage.
 * [Disk Usage Analyzer (baobab)](https://wiki.gnome.org/Apps/Baobab) - Examine disk usage with pie charts.
 * [Font Manager](https://fontmanager.github.io/) - Manage fonts.
