@@ -9,9 +9,9 @@
   * [Themes](#themes)
   * [Icons](#icons)
 * [Extensions](#extensions)
-  * [Navigation](#navigation)
-  * [Top panel utilities](#top-panel-utilities)
-  * [Custom](#custom)
+  * [Desktop](#desktop)
+  * [Activities](#activities)
+  * [Top panel](#top-panel)
 * [Applications](#applications)
   * [System](#system)
   * [Interface](#interface)
@@ -50,30 +50,31 @@ Be sure to turn off shell version check so the extension won't break after shell
 gsettings set org.gnome.shell disable-extension-version-validation "true"
 ```
 
-### Navigation
+### Desktop
 
 * [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) - Always access application dock on the left side of the screen.
 * [Workspaces to Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) - Always access workspace dock on the right side of the screen.
-* [windowNavigator](https://extensions.gnome.org/extension/10/windownavigator/) - Use <kbd>Alt</kbd>+Num to switch to windows in Overview.
-* [Quick Close in Overview](https://extensions.gnome.org/extension/352/middle-click-to-close-in-overview/) - Close windows with a mouse middle click when in Overview.
-* [Top Panel Workspace Scroll](https://extensions.gnome.org/extension/701/top-panel-workspace-scroll/) - Change workspaces by mouse scrolling over the top panel.
 * [Pixel Saver](https://extensions.gnome.org/extension/723/pixel-saver/) - Hide GTK2 title bar to save pixels when maximized.
 
-### Top panel utilities
+### Activities
 
+* [windowNavigator](https://extensions.gnome.org/extension/10/windownavigator/) - Use <kbd>Alt</kbd>+Num to switch to windows in Overview.
+* [Quick Close in Overview](https://extensions.gnome.org/extension/352/middle-click-to-close-in-overview/) - Close windows with a mouse middle click when in Overview.
+* [Appfolders Management](https://extensions.gnome.org/extension/1217/appfolders-manager/) - Easily group apps into folders with right-click menu in Applications view.
+
+### Top panel
+
+* [Top Panel Workspace Scroll](https://extensions.gnome.org/extension/701/top-panel-workspace-scroll/) - Change workspaces by mouse scrolling over the top panel.
 * [Activities configurator](https://extensions.gnome.org/extension/358/activities-configurator/) - Replace the text "Activities" on the top left corner with custom text/icon and make top panel tranparent.
-* [TopIcons](https://extensions.gnome.org/extension/495/topicons/) - Shows legacy tray icons on top, like Dropbox.
+* [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) - Shows legacy tray icons on top, like Dropbox.
+* [Window Corner Preview](https://extensions.gnome.org/extension/1227/window-corner-preview/) - Add picture-in-picture preview for any window at cornor of the screen. Useful for watching videos and monitoring window status.
 * [Media player indicator](https://extensions.gnome.org/extension/55/media-player-indicator/) - Show music control with current artist name, music name.
 * [EasyScreenCast](https://extensions.gnome.org/extension/690/easyscreencast/) - Utilize built-in screen recording function into a easy-to-use panel icon.
 * [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - Create simple todo list stored as `todo.txt`.
 * [Input Method Panel](https://extensions.gnome.org/extension/261/kimpanel/) - For fcitx (Chinese input method).
-* [Battery Percentage](https://extensions.gnome.org/extension/818/battery-percentage/) - Show battery remaining power percentage.
 * [Suspend Button](https://extensions.gnome.org/extension/826/suspend-button/) - Add suspend button in the status menu. Otherwise you hold <kbd>Alt</kbd> key to show it.
 * [Turn off Display](https://extensions.gnome.org/extension/897/turn-off-display/) - Adds a button to the status menu to turn off the screen.
 * [Sound Output Device Chooser](https://extensions.gnome.org/extension/906/sound-output-device-chooser/) - Shows a list of sound output devices to select from.
-
-### Custom
-
 * [Argos](https://extensions.gnome.org/extension/1176/argos/) - Make custom top panel extension using Bash script.
 
 ## Applications
@@ -116,7 +117,8 @@ Package names are according to Arch Linux Packages.
 ### Extensions
 
 * `sushi` - Preview the selected folder or file by hitting <kbd>Space</kbd>.
-* `nautilus-terminal` - Embed a terminal that will change directory when you browse. You can toggle the terminal by <kbd>F4</kbd>. Configurations like put it on bottom see the [project page](http://projects.flogisoft.com/nautilus-terminal/).
+* [nautilus-git](https://github.com/bil-elmoussaoui/nautilus-git) - Display Git branches and shortcut to remote repo in status bar.
+* [nautilus-terminal](http://projects.flogisoft.com/nautilus-terminal/) - Embed a terminal that will change directory when you browse. You can toggle the terminal by <kbd>F4</kbd>.
 
 ### Actions
 
