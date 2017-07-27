@@ -12,10 +12,11 @@
   * [Desktop](#desktop)
   * [Activities](#activities)
   * [Top panel](#top-panel)
+  * [Hardware](#hardware)
 * [Applications](#applications)
   * [System](#system)
   * [Interface](#interface)
-  * [Notes, photos, music ...](#notes-photos-music-)
+  * [Multimedia](#multimedia)
   * [Utilities](#utilities)
 * [Files (Nautilus)](#files-nautilus)
   * [Extensions](#extensions-1)
@@ -42,7 +43,7 @@ User icons are stored at `~/.local/share/icons/`. Global icons are stored at `/u
 
 ## Extensions
 
-[GNOME Extensions](https://extensions.gnome.org/) gives back the functionality it should have. Install **GNOME Tweak Tool** to manage extentions.
+[GNOME Extensions](https://extensions.gnome.org/) gives back the functionality it should have. Use **Web** browser to manage and update extensions.
 
 Be sure to turn off shell version check so the extension won't break after shell update:
 
@@ -67,15 +68,24 @@ gsettings set org.gnome.shell disable-extension-version-validation "true"
 * [Top Panel Workspace Scroll](https://extensions.gnome.org/extension/701/top-panel-workspace-scroll/) - Change workspaces by mouse scrolling over the top panel.
 * [Activities configurator](https://extensions.gnome.org/extension/358/activities-configurator/) - Replace the text "Activities" on the top left corner with custom text/icon and make top panel tranparent.
 * [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) - Shows legacy tray icons on top, like Dropbox.
+* [Places Status Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/): Add a Nautilus bookmark menu.
+* [Files Menu](https://extensions.gnome.org/extension/907/files-menu/):
+Quickly browse your file system and open files through a menu.
+* [Recent(Item)s](https://extensions.gnome.org/extension/977/recent-items/): Add an indicator in top panel to list recently opened files.
 * [Window Corner Preview](https://extensions.gnome.org/extension/1227/window-corner-preview/) - Add picture-in-picture preview for any window at cornor of the screen. Useful for watching videos and monitoring window status.
 * [Media player indicator](https://extensions.gnome.org/extension/55/media-player-indicator/) - Show music control with current artist name, music name.
+* [Screenshot Tool](https://extensions.gnome.org/extension/1112/screenshot-tool/): Conveniently create, copy, store and upload full, window and area screenshots.
 * [EasyScreenCast](https://extensions.gnome.org/extension/690/easyscreencast/) - Utilize built-in screen recording function into a easy-to-use panel icon.
 * [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - Create simple todo list stored as `todo.txt`.
 * [Input Method Panel](https://extensions.gnome.org/extension/261/kimpanel/) - For fcitx (Chinese input method).
+* [Argos](https://extensions.gnome.org/extension/1176/argos/) - Make custom top panel extension using Bash script.
+
+### Hardware
+
 * [Suspend Button](https://extensions.gnome.org/extension/826/suspend-button/) - Add suspend button in the status menu. Otherwise you hold <kbd>Alt</kbd> key to show it.
 * [Turn off Display](https://extensions.gnome.org/extension/897/turn-off-display/) - Adds a button to the status menu to turn off the screen.
+* [Toggle Touchpad](https://extensions.gnome.org/extension/935/toggle-touchpad/): Switch touchpad on and off to prevent accidentally triggering.
 * [Sound Output Device Chooser](https://extensions.gnome.org/extension/906/sound-output-device-chooser/) - Shows a list of sound output devices to select from.
-* [Argos](https://extensions.gnome.org/extension/1176/argos/) - Make custom top panel extension using Bash script.
 
 ## Applications
 
@@ -96,7 +106,7 @@ Below are GTK+ 3 apps (new header bar and dark theme available).
 * [Easystroke](https://github.com/thjaeger/easystroke/wiki) - Define your mouse gestures to trigger keyboard shortcuts.
 * [GNOME Pie](https://simmesimme.github.io/gnome-pie.html) - Shows pie menus of different kinds like alt-tab application menu, bookmarked places menu (needs [fix](https://gist.github.com/tanyuan/01dfc1f283a4de578968865db6b239f0)), media menu and more. It plays well with **Easystroke**.
 
-### Notes, photos, music ...
+### Multimedia
 
 * [Gnote](https://wiki.gnome.org/Apps/Gnote) - Take text notes. A port of Tomboy to C++.
 * [gThumb](https://wiki.gnome.org/Apps/gthumb) - View photos in native folder structures.
