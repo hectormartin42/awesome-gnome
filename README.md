@@ -114,7 +114,7 @@ Besides default Photos, Music, Video, Notes, Todo etc. applications which are un
 * [Gnote](https://wiki.gnome.org/Apps/Gnote) - Take text notes. A port of Tomboy to C++.
 * [gThumb](https://wiki.gnome.org/Apps/gthumb) - View photos in native folder structures.
 * [Lollypop](https://gnumdk.github.io/lollypop-web/) - iTune-like music player.
-* [GNOME MPV](https://gnome-mpv.github.io/): Video player based on `mpv`.
+* [GNOME MPV](https://gnome-mpv.github.io/) - Video player based on `mpv`.
 * [Pitivi](http://www.pitivi.org/) - Simple video editor.
 * [MyPaint](http://mypaint.org/) - Pleasant drawing app with Wacom stylus.
 
