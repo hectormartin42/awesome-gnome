@@ -96,6 +96,7 @@ Below are GTK+ 3 apps (new header bar and dark theme available).
 * [Tilix](https://gnunn1.github.io/tilix-web/) - Tiling terminal with tranparent background.
 * [System Monitor](https://wiki.gnome.org/Apps/SystemMonitor) - Watch CPU, memory, network usages, process and disks usage.
 * [Disk Usage Analyzer (baobab)](https://wiki.gnome.org/Apps/Baobab) - Examine disk usage with pie charts.
+* [Packages & Package Updater (PackageKit)](https://www.freedesktop.org/software/PackageKit/) - Graphical interface for various package manager like `apt`, `pacman` etc.
 * [Font Manager](https://fontmanager.github.io/) - Manage fonts.
 * [gitg](https://wiki.gnome.org/Apps/Gitg) - Git graphical client.
 * [Meld](http://meldmerge.org/) - Compare directories and files.
