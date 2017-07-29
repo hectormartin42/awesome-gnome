@@ -89,7 +89,7 @@ Quickly browse your file system and open files through a menu.
 
 ## Applications
 
-Below are GTK+ 3 apps (new header bar and dark theme available).
+Below are GTK+ 3 apps (new header bar and dark theme available), supposed to follow [GNOME Human Interface Guidelines](https://developer.gnome.org/hig/stable/).
 
 ### System
 
@@ -109,9 +109,12 @@ Below are GTK+ 3 apps (new header bar and dark theme available).
 
 ### Multimedia
 
+Besides default Photos, Music, Video, Notes, Todo etc. applications which are under heavy development, the followings are more suitable for daily use.
+
 * [Gnote](https://wiki.gnome.org/Apps/Gnote) - Take text notes. A port of Tomboy to C++.
 * [gThumb](https://wiki.gnome.org/Apps/gthumb) - View photos in native folder structures.
 * [Lollypop](https://gnumdk.github.io/lollypop-web/) - iTune-like music player.
+* [GNOME MPV](https://gnome-mpv.github.io/): Video player based on `mpv`.
 * [Pitivi](http://www.pitivi.org/) - Simple video editor.
 * [MyPaint](http://mypaint.org/) - Pleasant drawing app with Wacom stylus.
 
@@ -120,25 +123,24 @@ Below are GTK+ 3 apps (new header bar and dark theme available).
 * [GPaste](https://github.com/Keruspe/GPaste) - View and edit clipboard history with additional Gnome Shell Extension.
 * [Gcolor3](https://hjdskes.github.io/projects/gcolor3/) - A simple Color selector.
 * [Peek](https://github.com/phw/peek) - GIF screen recorder.
+* [Characters](https://wiki.gnome.org/Design/Apps/CharacterMap): Browse and copy special characters.
 
 ## Files (Nautilus)
 
-Package names are according to Arch Linux Packages.
-
 ### Extensions
 
-* `sushi` - Preview the selected folder or file by hitting <kbd>Space</kbd>.
+* [sushi](https://github.com/GNOME/sushi) - Preview the selected folder or file by hitting <kbd>Space</kbd>.
 * [nautilus-git](https://github.com/bil-elmoussaoui/nautilus-git) - Display Git branches and shortcut to remote repo in status bar.
 * [nautilus-terminal](http://projects.flogisoft.com/nautilus-terminal/) - Embed a terminal that will change directory when you browse. You can toggle the terminal by <kbd>F4</kbd>.
 
 ### Actions
 
-Actions for right-click menu. More custom actions can be configured through `nautilus-actions`.
+Actions for right-click menu. More custom actions can be configured through [nautilus-actions](http://www.nautilus-actions.org/). Most of them are available in your package manager.
 
-* `nautilus-open-terminal` - Open a terminal at the current directory.
-* `nautilus-image-tools` - A bunch of image manipulation tools like resize, convert, flip etc.
-* `nautilus-pdf-tools` - A bunch of PDF manipulation tools like extract pages, remove pages, join PDFs, convert to PNG etc.
-* `nautilus-renamer` - Batch rename for selected files with rules.
+* [nautilus-open-terminal](http://ftp.acc.umu.se/pub/GNOME/sources/nautilus-open-terminal/) - Open a terminal at the current directory.
+* [nautilus-image-tools](http://www.atareao.es/apps/nautilus-image-tools-o-como-modificar-imagenes-desde-nautilus/) - A bunch of image manipulation tools like resize, convert, flip etc.
+* [nautilus-pdf-tools](https://www.atareao.es/apps/nautilus-pdf-tools-o-modificando-pdf-desde-el-menu-contextual/) - A bunch of PDF manipulation tools like extract pages, remove pages, join PDFs, convert to PNG etc.
+* [nautilus-renamer](https://launchpad.net/nautilus-renamer/) - Batch rename for selected files with rules.
 
 ### Emblems
 
