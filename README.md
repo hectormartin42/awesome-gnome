@@ -78,17 +78,17 @@ gsettings set org.gnome.shell disable-extension-version-validation "true"
 
 ### Files indicators
 
-* [Places Status Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/): Add a Nautilus bookmark menu.
-* [Files Menu](https://extensions.gnome.org/extension/907/files-menu/):
+* [Places Status Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/) - Add a Nautilus bookmark menu.
+* [Files Menu](https://extensions.gnome.org/extension/907/files-menu/) -
 Quickly browse your file system and open files through a menu.
-* [Recent(Item)s](https://extensions.gnome.org/extension/977/recent-items/): Add an indicator in top panel to list recently opened files.
+* [Recent(Item)s](https://extensions.gnome.org/extension/977/recent-items/) - Add an indicator in top panel to list recently opened files.
 * [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - Show  icon when removable drives are plugged in.
 
 ### Media indicators
 
 * [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Show weather condition and temperature.
 * [Media player indicator](https://extensions.gnome.org/extension/55/media-player-indicator/) - Show music control with current artist name, music name.
-* [Screenshot Tool](https://extensions.gnome.org/extension/1112/screenshot-tool/): Conveniently create, copy, store and upload full, window and area screenshots.
+* [Screenshot Tool](https://extensions.gnome.org/extension/1112/screenshot-tool/) - Conveniently create, copy, store and upload full, window and area screenshots.
 * [EasyScreenCast](https://extensions.gnome.org/extension/690/easyscreencast/) - Utilize built-in screen recording function into a easy-to-use panel icon.
 * [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - Create simple todo list stored as `todo.txt`.
 * [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/) - View and select clipboard history.
@@ -96,10 +96,10 @@ Quickly browse your file system and open files through a menu.
 
 ### Hardware
 
-* [system-monitor](https://extensions.gnome.org/extension/120/system-monitor/): Show CPU, memory usages with digits or graphs on top panel.
+* [system-monitor](https://extensions.gnome.org/extension/120/system-monitor/) - Show CPU, memory usages with digits or graphs on top panel.
 * [Suspend Button](https://extensions.gnome.org/extension/826/suspend-button/) - Add suspend button in the status menu. Otherwise you hold <kbd>Alt</kbd> key to show it.
 * [Turn off Display](https://extensions.gnome.org/extension/897/turn-off-display/) - Adds a button to the status menu to turn off the screen.
-* [Toggle Touchpad](https://extensions.gnome.org/extension/935/toggle-touchpad/): Switch touchpad on and off to prevent accidentally triggering.
+* [Toggle Touchpad](https://extensions.gnome.org/extension/935/toggle-touchpad/) - Switch touchpad on and off to prevent accidentally triggering.
 * [Sound Output Device Chooser](https://extensions.gnome.org/extension/906/sound-output-device-chooser/) - Shows a list of sound output devices to select from.
 
 ## Applications
