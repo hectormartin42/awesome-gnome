@@ -12,6 +12,8 @@
   * [Desktop](#desktop)
   * [Activities](#activities)
   * [Top panel](#top-panel)
+  * [Files indicators](#files-indicators)
+  * [Media indicators](#media-indicators)
   * [Hardware](#hardware)
 * [Applications](#applications)
   * [System](#system)
@@ -43,7 +45,9 @@ User icons are stored at `~/.local/share/icons/`. Global icons are stored at `/u
 
 ## Extensions
 
-[GNOME Extensions](https://extensions.gnome.org/) gives back the functionality it should have. Use **Web** browser to manage and update extensions.
+Use **Web** (epiphany) browser to manage and update extensions on [GNOME Extensions](https://extensions.gnome.org/).
+
+Extensions are stored at `~/.local/share/gnome-shell/extensions/`.
 
 Be sure to turn off shell version check so the extension won't break after shell update:
 
@@ -55,7 +59,9 @@ gsettings set org.gnome.shell disable-extension-version-validation "true"
 
 * [Dash to Dock](https://extensions.gnome.org/extension/307/dash-to-dock/) - Always access application dock on the left side of the screen.
 * [Workspaces to Dock](https://extensions.gnome.org/extension/427/workspaces-to-dock/) - Always access workspace dock on the right side of the screen.
+* [Top Panel Workspace Scroll](https://extensions.gnome.org/extension/701/top-panel-workspace-scroll/) - Change workspaces by mouse scrolling over the top panel.
 * [Pixel Saver](https://extensions.gnome.org/extension/723/pixel-saver/) - Hide GTK2 title bar to save pixels when maximized.
+* [Maximize To Workspace](https://extensions.gnome.org/extension/1181/maximize-to-workspace/) - Puts windows in a new workspace when maximized.
 
 ### Activities
 
@@ -65,23 +71,32 @@ gsettings set org.gnome.shell disable-extension-version-validation "true"
 
 ### Top panel
 
-* [Top Panel Workspace Scroll](https://extensions.gnome.org/extension/701/top-panel-workspace-scroll/) - Change workspaces by mouse scrolling over the top panel.
 * [Activities configurator](https://extensions.gnome.org/extension/358/activities-configurator/) - Replace the text "Activities" on the top left corner with custom text/icon and make top panel tranparent.
 * [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) - Shows legacy tray icons on top, like Dropbox.
+* [Window Corner Preview](https://extensions.gnome.org/extension/1227/window-corner-preview/) - Add picture-in-picture preview for any window at cornor of the screen. Useful for watching videos and monitoring window status.
+* [Argos](https://extensions.gnome.org/extension/1176/argos/) - Make custom top panel extension using Bash script.
+
+### Files indicators
+
 * [Places Status Indicator](https://extensions.gnome.org/extension/8/places-status-indicator/): Add a Nautilus bookmark menu.
 * [Files Menu](https://extensions.gnome.org/extension/907/files-menu/):
 Quickly browse your file system and open files through a menu.
 * [Recent(Item)s](https://extensions.gnome.org/extension/977/recent-items/): Add an indicator in top panel to list recently opened files.
-* [Window Corner Preview](https://extensions.gnome.org/extension/1227/window-corner-preview/) - Add picture-in-picture preview for any window at cornor of the screen. Useful for watching videos and monitoring window status.
+* [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - Show  icon when removable drives are plugged in.
+
+### Media indicators
+
+* [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - Show weather condition and temperature.
 * [Media player indicator](https://extensions.gnome.org/extension/55/media-player-indicator/) - Show music control with current artist name, music name.
 * [Screenshot Tool](https://extensions.gnome.org/extension/1112/screenshot-tool/): Conveniently create, copy, store and upload full, window and area screenshots.
 * [EasyScreenCast](https://extensions.gnome.org/extension/690/easyscreencast/) - Utilize built-in screen recording function into a easy-to-use panel icon.
 * [Todo.txt](https://extensions.gnome.org/extension/570/todotxt/) - Create simple todo list stored as `todo.txt`.
+* [Clipboard Indicator](https://extensions.gnome.org/extension/779/clipboard-indicator/) - View and select clipboard history.
 * [Input Method Panel](https://extensions.gnome.org/extension/261/kimpanel/) - For fcitx (Chinese input method).
-* [Argos](https://extensions.gnome.org/extension/1176/argos/) - Make custom top panel extension using Bash script.
 
 ### Hardware
 
+* [system-monitor](https://extensions.gnome.org/extension/120/system-monitor/): Show CPU, memory usages with digits or graphs on top panel.
 * [Suspend Button](https://extensions.gnome.org/extension/826/suspend-button/) - Add suspend button in the status menu. Otherwise you hold <kbd>Alt</kbd> key to show it.
 * [Turn off Display](https://extensions.gnome.org/extension/897/turn-off-display/) - Adds a button to the status menu to turn off the screen.
 * [Toggle Touchpad](https://extensions.gnome.org/extension/935/toggle-touchpad/): Switch touchpad on and off to prevent accidentally triggering.
@@ -120,7 +135,6 @@ Besides default Photos, Music, Video, Notes, Todo etc. applications which are un
 
 ### Utilities
 
-* [GPaste](https://github.com/Keruspe/GPaste) - View and edit clipboard history with additional Gnome Shell Extension.
 * [Gcolor3](https://hjdskes.github.io/projects/gcolor3/) - A simple Color selector.
 * [Peek](https://github.com/phw/peek) - GIF screen recorder.
 * [Characters](https://wiki.gnome.org/Design/Apps/CharacterMap): Browse and copy special characters.
