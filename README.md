@@ -18,6 +18,7 @@
 * [Applications](#applications)
   * [System](#system)
   * [Interface](#interface)
+  * [Web](#web)
   * [Multimedia](#multimedia)
   * [Utilities](#utilities)
 * [Files (Nautilus)](#files-nautilus)
@@ -121,6 +122,11 @@ Below are GTK+ 3 apps (new header bar and dark theme available), supposed to fol
 
 * [Easystroke](https://github.com/thjaeger/easystroke/wiki) - Define your mouse gestures to trigger keyboard shortcuts.
 * [GNOME Pie](https://simmesimme.github.io/gnome-pie.html) - Shows pie menus of different kinds like alt-tab application menu, bookmarked places menu (needs [fix](https://gist.github.com/tanyuan/01dfc1f283a4de578968865db6b239f0)), media menu and more. It plays well with **Easystroke**.
+
+### Web
+
+* Chromium - Great native GTK theme.
+* Firefox - If you use dark theme, you might want to turn it on at `about:config`, search `widget.chrome.allow-gtk-dark-theme` and set to `true` if False, then restart Firefox.
 
 ### Multimedia
 
